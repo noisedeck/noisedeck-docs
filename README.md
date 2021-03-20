@@ -8,5 +8,6 @@ We are now tracking ongoing and future development at https://github.com/noisede
 Documentation will now live at https://github.com/noisedeck/noisedeck-public/wiki
 
 ## Discussions ##
+Discuss Noisedeck at https://github.com/noisedeck/noisedeck-public/discussions
 
 
