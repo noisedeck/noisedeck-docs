@@ -1,4 +1,6 @@
-# Noisedeck's public repository
+# Noisedeck Docs
+
+Welcome!
 
 What you will find here:
 * [Development Roadmap](https://github.com/noisedeck/noisedeck-docs/projects/1)
